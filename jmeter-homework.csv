@@ -1,0 +1,401 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1637009071054,1556,HTTP Request,200,OK,jmeter-getting 1-2,text,true,,105889,501,5,5,https://accounts.google.com/ServiceLogin?service=classroom&passive=1209600&continue=https://classroom.google.com/&followup=https://classroom.google.com/&emr=1,226,0,160
+1637009071054,226,HTTP Request-0,301,Moved Permanently,jmeter-getting 1-2,text,true,,727,126,5,5,https://www.google.com/classroom,226,0,160
+1637009071282,928,HTTP Request-1,302,Moved Temporarily,jmeter-getting 1-2,text,true,,1917,123,5,5,https://classroom.google.com/,927,0,150
+1637009072211,399,HTTP Request-2,200,OK,jmeter-getting 1-2,text,true,,103245,252,5,5,https://accounts.google.com/ServiceLogin?service=classroom&passive=1209600&continue=https://classroom.google.com/&followup=https://classroom.google.com/&emr=1,244,0,141
+1637009072057,1029,HTTP Request,200,OK,jmeter-getting 1-4,text,true,,105779,501,5,5,https://accounts.google.com/ServiceLogin?service=classroom&passive=1209600&continue=https://classroom.google.com/&followup=https://classroom.google.com/&emr=1,210,0,146
+1637009072057,210,HTTP Request-0,301,Moved Permanently,jmeter-getting 1-4,text,true,,727,126,5,5,https://www.google.com/classroom,210,0,146
+1637009072268,433,HTTP Request-1,302,Moved Temporarily,jmeter-getting 1-4,text,true,,1917,123,5,5,https://classroom.google.com/,433,0,128
+1637009072702,384,HTTP Request-2,200,OK,jmeter-getting 1-4,text,true,,103135,252,5,5,https://accounts.google.com/ServiceLogin?service=classroom&passive=1209600&continue=https://classroom.google.com/&followup=https://classroom.google.com/&emr=1,229,0,125
+1637009070659,2687,HTTP Request,200,OK,jmeter-getting 1-1,text,true,,104888,501,4,4,https://accounts.google.com/ServiceLogin?service=classroom&passive=1209600&continue=https://classroom.google.com/&followup=https://classroom.google.com/&emr=1,559,0,493
+1637009070659,561,HTTP Request-0,301,Moved Permanently,jmeter-getting 1-1,text,true,,727,126,4,4,https://www.google.com/classroom,559,0,493
+1637009071222,1713,HTTP Request-1,302,Moved Temporarily,jmeter-getting 1-1,text,true,,1917,123,4,4,https://classroom.google.com/,1713,0,220
+1637009072938,408,HTTP Request-2,200,OK,jmeter-getting 1-1,text,true,,102244,252,4,4,https://accounts.google.com/ServiceLogin?service=classroom&passive=1209600&continue=https://classroom.google.com/&followup=https://classroom.google.com/&emr=1,245,0,150
+1637009071556,1810,HTTP Request,200,OK,jmeter-getting 1-3,text,true,,105731,501,3,3,https://accounts.google.com/ServiceLogin?service=classroom&passive=1209600&continue=https://classroom.google.com/&followup=https://classroom.google.com/&emr=1,212,0,155
+1637009071556,212,HTTP Request-0,301,Moved Permanently,jmeter-getting 1-3,text,true,,727,126,3,3,https://www.google.com/classroom,212,0,155
+1637009071769,1182,HTTP Request-1,302,Moved Temporarily,jmeter-getting 1-3,text,true,,1917,123,3,3,https://classroom.google.com/,1182,0,141
+1637009072952,414,HTTP Request-2,200,OK,jmeter-getting 1-3,text,true,,103087,252,3,3,https://accounts.google.com/ServiceLogin?service=classroom&passive=1209600&continue=https://classroom.google.com/&followup=https://classroom.google.com/&emr=1,245,0,149
+1637009072550,1509,HTTP Request,200,OK,jmeter-getting 1-5,text,true,,104868,501,4,4,https://accounts.google.com/ServiceLogin?service=classroom&passive=1209600&continue=https://classroom.google.com/&followup=https://classroom.google.com/&emr=1,203,0,140
+1637009072550,203,HTTP Request-0,301,Moved Permanently,jmeter-getting 1-5,text,true,,727,126,4,4,https://www.google.com/classroom,203,0,140
+1637009072754,910,HTTP Request-1,302,Moved Temporarily,jmeter-getting 1-5,text,true,,1917,123,4,4,https://classroom.google.com/,910,0,135
+1637009073665,394,HTTP Request-2,200,OK,jmeter-getting 1-5,text,true,,102224,252,4,4,https://accounts.google.com/ServiceLogin?service=classroom&passive=1209600&continue=https://classroom.google.com/&followup=https://classroom.google.com/&emr=1,232,0,141
+1637009073049,1732,HTTP Request,200,OK,jmeter-getting 1-6,text,true,,105907,501,4,4,https://accounts.google.com/ServiceLogin?service=classroom&passive=1209600&continue=https://classroom.google.com/&followup=https://classroom.google.com/&emr=1,205,0,145
+1637009073049,206,HTTP Request-0,301,Moved Permanently,jmeter-getting 1-6,text,true,,727,126,4,4,https://www.google.com/classroom,205,0,145
+1637009073257,1124,HTTP Request-1,302,Moved Temporarily,jmeter-getting 1-6,text,true,,1917,123,4,4,https://classroom.google.com/,1124,0,156
+1637009074383,398,HTTP Request-2,200,OK,jmeter-getting 1-6,text,true,,103263,252,4,4,https://accounts.google.com/ServiceLogin?service=classroom&passive=1209600&continue=https://classroom.google.com/&followup=https://classroom.google.com/&emr=1,246,0,142
+1637009073549,1533,HTTP Request,200,OK,jmeter-getting 1-7,text,true,,106011,501,4,4,https://accounts.google.com/ServiceLogin?service=classroom&passive=1209600&continue=https://classroom.google.com/&followup=https://classroom.google.com/&emr=1,202,0,143
+1637009073549,203,HTTP Request-0,301,Moved Permanently,jmeter-getting 1-7,text,true,,727,126,4,4,https://www.google.com/classroom,202,0,143
+1637009073752,917,HTTP Request-1,302,Moved Temporarily,jmeter-getting 1-7,text,true,,1917,123,4,4,https://classroom.google.com/,916,0,140
+1637009074671,411,HTTP Request-2,200,OK,jmeter-getting 1-7,text,true,,103367,252,4,4,https://accounts.google.com/ServiceLogin?service=classroom&passive=1209600&continue=https://classroom.google.com/&followup=https://classroom.google.com/&emr=1,246,0,149
+1637009074556,961,HTTP Request,200,OK,jmeter-getting 1-9,text,true,,105741,501,3,3,https://accounts.google.com/ServiceLogin?service=classroom&passive=1209600&continue=https://classroom.google.com/&followup=https://classroom.google.com/&emr=1,208,0,146
+1637009074556,208,HTTP Request-0,301,Moved Permanently,jmeter-getting 1-9,text,true,,727,126,3,3,https://www.google.com/classroom,208,0,146
+1637009074765,347,HTTP Request-1,302,Moved Temporarily,jmeter-getting 1-9,text,true,,1917,123,3,3,https://classroom.google.com/,347,0,154
+1637009075114,403,HTTP Request-2,200,OK,jmeter-getting 1-9,text,true,,103097,252,3,3,https://accounts.google.com/ServiceLogin?service=classroom&passive=1209600&continue=https://classroom.google.com/&followup=https://classroom.google.com/&emr=1,248,0,152
+1637009074050,1728,HTTP Request,200,OK,jmeter-getting 1-8,text,true,,105751,501,3,3,https://accounts.google.com/ServiceLogin?service=classroom&passive=1209600&continue=https://classroom.google.com/&followup=https://classroom.google.com/&emr=1,223,0,161
+1637009074050,223,HTTP Request-0,301,Moved Permanently,jmeter-getting 1-8,text,true,,727,126,3,3,https://www.google.com/classroom,223,0,161
+1637009074275,1106,HTTP Request-1,302,Moved Temporarily,jmeter-getting 1-8,text,true,,1917,123,3,3,https://classroom.google.com/,1106,0,147
+1637009075383,395,HTTP Request-2,200,OK,jmeter-getting 1-8,text,true,,103107,252,3,3,https://accounts.google.com/ServiceLogin?service=classroom&passive=1209600&continue=https://classroom.google.com/&followup=https://classroom.google.com/&emr=1,238,0,140
+1637009075057,1539,HTTP Request,200,OK,jmeter-getting 1-10,text,true,,104850,501,4,4,https://accounts.google.com/ServiceLogin?service=classroom&passive=1209600&continue=https://classroom.google.com/&followup=https://classroom.google.com/&emr=1,210,0,148
+1637009075057,210,HTTP Request-0,301,Moved Permanently,jmeter-getting 1-10,text,true,,727,126,4,4,https://www.google.com/classroom,210,0,148
+1637009075269,928,HTTP Request-1,302,Moved Temporarily,jmeter-getting 1-10,text,true,,1917,123,4,4,https://classroom.google.com/,928,0,152
+1637009076197,398,HTTP Request-2,200,OK,jmeter-getting 1-10,text,true,,102206,252,4,4,https://accounts.google.com/ServiceLogin?service=classroom&passive=1209600&continue=https://classroom.google.com/&followup=https://classroom.google.com/&emr=1,233,0,132
+1637009075548,1814,HTTP Request,200,OK,jmeter-getting 1-11,text,true,,104924,501,4,4,https://accounts.google.com/ServiceLogin?service=classroom&passive=1209600&continue=https://classroom.google.com/&followup=https://classroom.google.com/&emr=1,230,0,167
+1637009075548,230,HTTP Request-0,301,Moved Permanently,jmeter-getting 1-11,text,true,,727,126,4,4,https://www.google.com/classroom,230,0,167
+1637009075779,1147,HTTP Request-1,302,Moved Temporarily,jmeter-getting 1-11,text,true,,1917,123,4,4,https://classroom.google.com/,1147,0,142
+1637009076928,434,HTTP Request-2,200,OK,jmeter-getting 1-11,text,true,,102280,252,4,4,https://accounts.google.com/ServiceLogin?service=classroom&passive=1209600&continue=https://classroom.google.com/&followup=https://classroom.google.com/&emr=1,270,0,166
+1637009076051,1551,HTTP Request,200,OK,jmeter-getting 1-12,text,true,,105881,501,4,4,https://accounts.google.com/ServiceLogin?service=classroom&passive=1209600&continue=https://classroom.google.com/&followup=https://classroom.google.com/&emr=1,208,0,148
+1637009076051,208,HTTP Request-0,301,Moved Permanently,jmeter-getting 1-12,text,true,,727,126,4,4,https://www.google.com/classroom,208,0,148
+1637009076260,914,HTTP Request-1,302,Moved Temporarily,jmeter-getting 1-12,text,true,,1917,123,4,4,https://classroom.google.com/,914,0,138
+1637009077176,426,HTTP Request-2,200,OK,jmeter-getting 1-12,text,true,,103237,252,4,4,https://accounts.google.com/ServiceLogin?service=classroom&passive=1209600&continue=https://classroom.google.com/&followup=https://classroom.google.com/&emr=1,263,0,166
+1637009076549,1731,HTTP Request,200,OK,jmeter-getting 1-13,text,true,,105791,501,4,4,https://accounts.google.com/ServiceLogin?service=classroom&passive=1209600&continue=https://classroom.google.com/&followup=https://classroom.google.com/&emr=1,208,0,146
+1637009076549,208,HTTP Request-0,301,Moved Permanently,jmeter-getting 1-13,text,true,,727,126,4,4,https://www.google.com/classroom,208,0,146
+1637009076760,1128,HTTP Request-1,302,Moved Temporarily,jmeter-getting 1-13,text,true,,1917,123,4,4,https://classroom.google.com/,1128,0,157
+1637009077891,389,HTTP Request-2,200,OK,jmeter-getting 1-13,text,true,,103147,252,4,4,https://accounts.google.com/ServiceLogin?service=classroom&passive=1209600&continue=https://classroom.google.com/&followup=https://classroom.google.com/&emr=1,227,0,133
+1637009077048,1499,HTTP Request,200,OK,jmeter-getting 1-14,text,true,,104738,501,3,3,https://accounts.google.com/ServiceLogin?service=classroom&passive=1209600&continue=https://classroom.google.com/&followup=https://classroom.google.com/&emr=1,214,0,154
+1637009077048,214,HTTP Request-0,301,Moved Permanently,jmeter-getting 1-14,text,true,,727,126,3,3,https://www.google.com/classroom,214,0,154
+1637009077264,919,HTTP Request-1,302,Moved Temporarily,jmeter-getting 1-14,text,true,,1917,123,3,3,https://classroom.google.com/,919,0,146
+1637009078184,363,HTTP Request-2,200,OK,jmeter-getting 1-14,text,true,,102094,252,3,3,https://accounts.google.com/ServiceLogin?service=classroom&passive=1209600&continue=https://classroom.google.com/&followup=https://classroom.google.com/&emr=1,213,0,124
+1637009077548,1170,HTTP Request,200,OK,jmeter-getting 1-15,text,true,,104854,501,3,3,https://accounts.google.com/ServiceLogin?service=classroom&passive=1209600&continue=https://classroom.google.com/&followup=https://classroom.google.com/&emr=1,216,0,154
+1637009077548,216,HTTP Request-0,301,Moved Permanently,jmeter-getting 1-15,text,true,,727,126,3,3,https://www.google.com/classroom,216,0,154
+1637009077766,543,HTTP Request-1,302,Moved Temporarily,jmeter-getting 1-15,text,true,,1917,123,3,3,https://classroom.google.com/,543,0,151
+1637009078310,408,HTTP Request-2,200,OK,jmeter-getting 1-15,text,true,,102210,252,3,3,https://accounts.google.com/ServiceLogin?service=classroom&passive=1209600&continue=https://classroom.google.com/&followup=https://classroom.google.com/&emr=1,243,0,136
+1637009078047,1508,HTTP Request,200,OK,jmeter-getting 1-16,text,true,,104894,501,4,4,https://accounts.google.com/ServiceLogin?service=classroom&passive=1209600&continue=https://classroom.google.com/&followup=https://classroom.google.com/&emr=1,192,0,132
+1637009078047,192,HTTP Request-0,301,Moved Permanently,jmeter-getting 1-16,text,true,,727,126,4,4,https://www.google.com/classroom,192,0,132
+1637009078240,902,HTTP Request-1,302,Moved Temporarily,jmeter-getting 1-16,text,true,,1917,123,4,4,https://classroom.google.com/,902,0,124
+1637009079144,411,HTTP Request-2,200,OK,jmeter-getting 1-16,text,true,,102250,252,4,4,https://accounts.google.com/ServiceLogin?service=classroom&passive=1209600&continue=https://classroom.google.com/&followup=https://classroom.google.com/&emr=1,252,0,156
+1637009078550,1158,HTTP Request,200,OK,jmeter-getting 1-17,text,true,,105805,501,3,3,https://accounts.google.com/ServiceLogin?service=classroom&passive=1209600&continue=https://classroom.google.com/&followup=https://classroom.google.com/&emr=1,213,0,150
+1637009078550,213,HTTP Request-0,301,Moved Permanently,jmeter-getting 1-17,text,true,,727,126,3,3,https://www.google.com/classroom,213,0,150
+1637009078764,518,HTTP Request-1,302,Moved Temporarily,jmeter-getting 1-17,text,true,,1917,123,3,3,https://classroom.google.com/,518,0,143
+1637009079284,424,HTTP Request-2,200,OK,jmeter-getting 1-17,text,true,,103161,252,3,3,https://accounts.google.com/ServiceLogin?service=classroom&passive=1209600&continue=https://classroom.google.com/&followup=https://classroom.google.com/&emr=1,262,0,163
+1637009079058,1548,HTTP Request,200,OK,jmeter-getting 1-18,text,true,,104822,501,4,4,https://accounts.google.com/ServiceLogin?service=classroom&passive=1209600&continue=https://classroom.google.com/&followup=https://classroom.google.com/&emr=1,212,0,151
+1637009079058,212,HTTP Request-0,301,Moved Permanently,jmeter-getting 1-18,text,true,,727,126,4,4,https://www.google.com/classroom,212,0,151
+1637009079272,930,HTTP Request-1,302,Moved Temporarily,jmeter-getting 1-18,text,true,,1917,123,4,4,https://classroom.google.com/,930,0,154
+1637009080203,403,HTTP Request-2,200,OK,jmeter-getting 1-18,text,true,,102178,252,4,4,https://accounts.google.com/ServiceLogin?service=classroom&passive=1209600&continue=https://classroom.google.com/&followup=https://classroom.google.com/&emr=1,242,0,148
+1637009079555,1760,HTTP Request,200,OK,jmeter-getting 1-19,text,true,,105815,501,4,4,https://accounts.google.com/ServiceLogin?service=classroom&passive=1209600&continue=https://classroom.google.com/&followup=https://classroom.google.com/&emr=1,222,0,160
+1637009079555,222,HTTP Request-0,301,Moved Permanently,jmeter-getting 1-19,text,true,,727,126,4,4,https://www.google.com/classroom,222,0,160
+1637009079778,1139,HTTP Request-1,302,Moved Temporarily,jmeter-getting 1-19,text,true,,1917,123,4,4,https://classroom.google.com/,1139,0,154
+1637009080918,397,HTTP Request-2,200,OK,jmeter-getting 1-19,text,true,,103171,252,4,4,https://accounts.google.com/ServiceLogin?service=classroom&passive=1209600&continue=https://classroom.google.com/&followup=https://classroom.google.com/&emr=1,228,0,132
+1637009080050,1559,HTTP Request,200,OK,jmeter-getting 1-20,text,true,,105805,501,4,4,https://accounts.google.com/ServiceLogin?service=classroom&passive=1209600&continue=https://classroom.google.com/&followup=https://classroom.google.com/&emr=1,202,0,142
+1637009080050,202,HTTP Request-0,301,Moved Permanently,jmeter-getting 1-20,text,true,,727,126,4,4,https://www.google.com/classroom,202,0,142
+1637009080254,934,HTTP Request-1,302,Moved Temporarily,jmeter-getting 1-20,text,true,,1917,123,4,4,https://classroom.google.com/,934,0,153
+1637009081190,419,HTTP Request-2,200,OK,jmeter-getting 1-20,text,true,,103161,252,4,4,https://accounts.google.com/ServiceLogin?service=classroom&passive=1209600&continue=https://classroom.google.com/&followup=https://classroom.google.com/&emr=1,254,0,157
+1637009080549,1737,HTTP Request,200,OK,jmeter-getting 1-21,text,true,,104980,501,4,4,https://accounts.google.com/ServiceLogin?service=classroom&passive=1209600&continue=https://classroom.google.com/&followup=https://classroom.google.com/&emr=1,199,0,139
+1637009080549,199,HTTP Request-0,301,Moved Permanently,jmeter-getting 1-21,text,true,,727,126,4,4,https://www.google.com/classroom,199,0,139
+1637009080749,1150,HTTP Request-1,302,Moved Temporarily,jmeter-getting 1-21,text,true,,1917,123,4,4,https://classroom.google.com/,1150,0,150
+1637009081901,385,HTTP Request-2,200,OK,jmeter-getting 1-21,text,true,,102336,252,4,4,https://accounts.google.com/ServiceLogin?service=classroom&passive=1209600&continue=https://classroom.google.com/&followup=https://classroom.google.com/&emr=1,236,0,141
+1637009081048,1524,HTTP Request,200,OK,jmeter-getting 1-22,text,true,,105777,501,4,4,https://accounts.google.com/ServiceLogin?service=classroom&passive=1209600&continue=https://classroom.google.com/&followup=https://classroom.google.com/&emr=1,207,0,143
+1637009081048,207,HTTP Request-0,301,Moved Permanently,jmeter-getting 1-22,text,true,,727,126,4,4,https://www.google.com/classroom,207,0,143
+1637009081257,928,HTTP Request-1,302,Moved Temporarily,jmeter-getting 1-22,text,true,,1917,123,4,4,https://classroom.google.com/,928,0,153
+1637009082186,386,HTTP Request-2,200,OK,jmeter-getting 1-22,text,true,,103133,252,4,4,https://accounts.google.com/ServiceLogin?service=classroom&passive=1209600&continue=https://classroom.google.com/&followup=https://classroom.google.com/&emr=1,228,0,137
+1637009081549,1795,HTTP Request,200,OK,jmeter-getting 1-23,text,true,,105867,501,4,4,https://accounts.google.com/ServiceLogin?service=classroom&passive=1209600&continue=https://classroom.google.com/&followup=https://classroom.google.com/&emr=1,200,0,138
+1637009081549,200,HTTP Request-0,301,Moved Permanently,jmeter-getting 1-23,text,true,,727,126,4,4,https://www.google.com/classroom,200,0,138
+1637009081752,1152,HTTP Request-1,302,Moved Temporarily,jmeter-getting 1-23,text,true,,1917,123,4,4,https://classroom.google.com/,1152,0,153
+1637009082906,438,HTTP Request-2,200,OK,jmeter-getting 1-23,text,true,,103223,252,4,4,https://accounts.google.com/ServiceLogin?service=classroom&passive=1209600&continue=https://classroom.google.com/&followup=https://classroom.google.com/&emr=1,267,0,160
+1637009082047,1523,HTTP Request,200,OK,jmeter-getting 1-24,text,true,,105841,501,4,4,https://accounts.google.com/ServiceLogin?service=classroom&passive=1209600&continue=https://classroom.google.com/&followup=https://classroom.google.com/&emr=1,198,0,136
+1637009082047,198,HTTP Request-0,301,Moved Permanently,jmeter-getting 1-24,text,true,,727,126,4,4,https://www.google.com/classroom,198,0,136
+1637009082247,908,HTTP Request-1,302,Moved Temporarily,jmeter-getting 1-24,text,true,,1917,123,4,4,https://classroom.google.com/,908,0,130
+1637009083157,413,HTTP Request-2,200,OK,jmeter-getting 1-24,text,true,,103197,252,4,4,https://accounts.google.com/ServiceLogin?service=classroom&passive=1209600&continue=https://classroom.google.com/&followup=https://classroom.google.com/&emr=1,250,0,153
+1637009082549,1733,HTTP Request,200,OK,jmeter-getting 1-25,text,true,,105919,501,4,4,https://accounts.google.com/ServiceLogin?service=classroom&passive=1209600&continue=https://classroom.google.com/&followup=https://classroom.google.com/&emr=1,188,0,130
+1637009082549,188,HTTP Request-0,301,Moved Permanently,jmeter-getting 1-25,text,true,,727,126,4,4,https://www.google.com/classroom,188,0,130
+1637009082739,1137,HTTP Request-1,302,Moved Temporarily,jmeter-getting 1-25,text,true,,1917,123,4,4,https://classroom.google.com/,1137,0,148
+1637009083879,403,HTTP Request-2,200,OK,jmeter-getting 1-25,text,true,,103275,252,4,4,https://accounts.google.com/ServiceLogin?service=classroom&passive=1209600&continue=https://classroom.google.com/&followup=https://classroom.google.com/&emr=1,243,0,152
+1637009083049,1555,HTTP Request,200,OK,jmeter-getting 1-26,text,true,,105893,501,4,4,https://accounts.google.com/ServiceLogin?service=classroom&passive=1209600&continue=https://classroom.google.com/&followup=https://classroom.google.com/&emr=1,206,0,143
+1637009083049,207,HTTP Request-0,301,Moved Permanently,jmeter-getting 1-26,text,true,,727,126,4,4,https://www.google.com/classroom,206,0,143
+1637009083257,934,HTTP Request-1,302,Moved Temporarily,jmeter-getting 1-26,text,true,,1917,123,4,4,https://classroom.google.com/,934,0,152
+1637009084192,412,HTTP Request-2,200,OK,jmeter-getting 1-26,text,true,,103249,252,4,4,https://accounts.google.com/ServiceLogin?service=classroom&passive=1209600&continue=https://classroom.google.com/&followup=https://classroom.google.com/&emr=1,249,0,150
+1637009083548,1753,HTTP Request,200,OK,jmeter-getting 1-27,text,true,,105955,501,4,4,https://accounts.google.com/ServiceLogin?service=classroom&passive=1209600&continue=https://classroom.google.com/&followup=https://classroom.google.com/&emr=1,201,0,139
+1637009083548,201,HTTP Request-0,301,Moved Permanently,jmeter-getting 1-27,text,true,,727,126,4,4,https://www.google.com/classroom,201,0,139
+1637009083751,1148,HTTP Request-1,302,Moved Temporarily,jmeter-getting 1-27,text,true,,1917,123,4,4,https://classroom.google.com/,1147,0,144
+1637009084901,400,HTTP Request-2,200,OK,jmeter-getting 1-27,text,true,,103311,252,4,4,https://accounts.google.com/ServiceLogin?service=classroom&passive=1209600&continue=https://classroom.google.com/&followup=https://classroom.google.com/&emr=1,242,0,148
+1637009084047,1534,HTTP Request,200,OK,jmeter-getting 1-28,text,true,,104862,501,4,4,https://accounts.google.com/ServiceLogin?service=classroom&passive=1209600&continue=https://classroom.google.com/&followup=https://classroom.google.com/&emr=1,208,0,149
+1637009084047,208,HTTP Request-0,301,Moved Permanently,jmeter-getting 1-28,text,true,,727,126,4,4,https://www.google.com/classroom,208,0,149
+1637009084257,920,HTTP Request-1,302,Moved Temporarily,jmeter-getting 1-28,text,true,,1917,123,4,4,https://classroom.google.com/,920,0,144
+1637009085178,403,HTTP Request-2,200,OK,jmeter-getting 1-28,text,true,,102218,252,4,4,https://accounts.google.com/ServiceLogin?service=classroom&passive=1209600&continue=https://classroom.google.com/&followup=https://classroom.google.com/&emr=1,241,0,153
+1637009084549,1732,HTTP Request,200,OK,jmeter-getting 1-29,text,true,,104936,501,4,4,https://accounts.google.com/ServiceLogin?service=classroom&passive=1209600&continue=https://classroom.google.com/&followup=https://classroom.google.com/&emr=1,197,0,137
+1637009084549,197,HTTP Request-0,301,Moved Permanently,jmeter-getting 1-29,text,true,,727,126,4,4,https://www.google.com/classroom,197,0,137
+1637009084748,1145,HTTP Request-1,302,Moved Temporarily,jmeter-getting 1-29,text,true,,1917,123,4,4,https://classroom.google.com/,1144,0,152
+1637009085895,386,HTTP Request-2,200,OK,jmeter-getting 1-29,text,true,,102292,252,4,4,https://accounts.google.com/ServiceLogin?service=classroom&passive=1209600&continue=https://classroom.google.com/&followup=https://classroom.google.com/&emr=1,232,0,145
+1637009085050,1529,HTTP Request,200,OK,jmeter-getting 1-30,text,true,,105921,501,4,4,https://accounts.google.com/ServiceLogin?service=classroom&passive=1209600&continue=https://classroom.google.com/&followup=https://classroom.google.com/&emr=1,216,0,154
+1637009085050,216,HTTP Request-0,301,Moved Permanently,jmeter-getting 1-30,text,true,,727,126,4,4,https://www.google.com/classroom,216,0,154
+1637009085268,922,HTTP Request-1,302,Moved Temporarily,jmeter-getting 1-30,text,true,,1917,123,4,4,https://classroom.google.com/,921,0,141
+1637009086191,388,HTTP Request-2,200,OK,jmeter-getting 1-30,text,true,,103277,252,4,4,https://accounts.google.com/ServiceLogin?service=classroom&passive=1209600&continue=https://classroom.google.com/&followup=https://classroom.google.com/&emr=1,224,0,128
+1637009085550,1286,HTTP Request,200,OK,jmeter-getting 1-31,text,true,,104968,501,3,3,https://accounts.google.com/ServiceLogin?service=classroom&passive=1209600&continue=https://classroom.google.com/&followup=https://classroom.google.com/&emr=1,189,0,132
+1637009085550,189,HTTP Request-0,301,Moved Permanently,jmeter-getting 1-31,text,true,,727,126,3,3,https://www.google.com/classroom,189,0,132
+1637009085741,697,HTTP Request-1,302,Moved Temporarily,jmeter-getting 1-31,text,true,,1917,123,3,3,https://classroom.google.com/,697,0,147
+1637009086440,396,HTTP Request-2,200,OK,jmeter-getting 1-31,text,true,,102324,252,3,3,https://accounts.google.com/ServiceLogin?service=classroom&passive=1209600&continue=https://classroom.google.com/&followup=https://classroom.google.com/&emr=1,233,0,141
+1637009086049,2065,HTTP Request,200,OK,jmeter-getting 1-32,text,true,,104732,501,5,5,https://accounts.google.com/ServiceLogin?service=classroom&passive=1209600&continue=https://classroom.google.com/&followup=https://classroom.google.com/&emr=1,216,0,154
+1637009086049,216,HTTP Request-0,301,Moved Permanently,jmeter-getting 1-32,text,true,,727,126,5,5,https://www.google.com/classroom,216,0,154
+1637009086266,1473,HTTP Request-1,302,Moved Temporarily,jmeter-getting 1-32,text,true,,1917,123,5,5,https://classroom.google.com/,1473,0,149
+1637009087741,373,HTTP Request-2,200,OK,jmeter-getting 1-32,text,true,,102088,252,5,5,https://accounts.google.com/ServiceLogin?service=classroom&passive=1209600&continue=https://classroom.google.com/&followup=https://classroom.google.com/&emr=1,224,0,140
+1637009086551,1571,HTTP Request,200,OK,jmeter-getting 1-33,text,true,,105791,501,4,4,https://accounts.google.com/ServiceLogin?service=classroom&passive=1209600&continue=https://classroom.google.com/&followup=https://classroom.google.com/&emr=1,215,0,152
+1637009086551,215,HTTP Request-0,301,Moved Permanently,jmeter-getting 1-33,text,true,,727,126,4,4,https://www.google.com/classroom,215,0,152
+1637009086768,964,HTTP Request-1,302,Moved Temporarily,jmeter-getting 1-33,text,true,,1917,123,4,4,https://classroom.google.com/,964,0,144
+1637009087734,388,HTTP Request-2,200,OK,jmeter-getting 1-33,text,true,,103147,252,4,4,https://accounts.google.com/ServiceLogin?service=classroom&passive=1209600&continue=https://classroom.google.com/&followup=https://classroom.google.com/&emr=1,239,0,141
+1637009087047,1528,HTTP Request,200,OK,jmeter-getting 1-34,text,true,,104754,501,4,4,https://accounts.google.com/ServiceLogin?service=classroom&passive=1209600&continue=https://classroom.google.com/&followup=https://classroom.google.com/&emr=1,208,0,145
+1637009087047,208,HTTP Request-0,301,Moved Permanently,jmeter-getting 1-34,text,true,,727,126,4,4,https://www.google.com/classroom,208,0,145
+1637009087257,922,HTTP Request-1,302,Moved Temporarily,jmeter-getting 1-34,text,true,,1917,123,4,4,https://classroom.google.com/,922,0,144
+1637009088180,395,HTTP Request-2,200,OK,jmeter-getting 1-34,text,true,,102110,252,4,4,https://accounts.google.com/ServiceLogin?service=classroom&passive=1209600&continue=https://classroom.google.com/&followup=https://classroom.google.com/&emr=1,235,0,141
+1637009087549,1738,HTTP Request,200,OK,jmeter-getting 1-35,text,true,,105851,501,4,4,https://accounts.google.com/ServiceLogin?service=classroom&passive=1209600&continue=https://classroom.google.com/&followup=https://classroom.google.com/&emr=1,211,0,149
+1637009087549,211,HTTP Request-0,301,Moved Permanently,jmeter-getting 1-35,text,true,,727,126,4,4,https://www.google.com/classroom,211,0,149
+1637009087761,1136,HTTP Request-1,302,Moved Temporarily,jmeter-getting 1-35,text,true,,1917,123,4,4,https://classroom.google.com/,1136,0,134
+1637009088899,388,HTTP Request-2,200,OK,jmeter-getting 1-35,text,true,,103207,252,4,4,https://accounts.google.com/ServiceLogin?service=classroom&passive=1209600&continue=https://classroom.google.com/&followup=https://classroom.google.com/&emr=1,229,0,139
+1637009088045,1535,HTTP Request,200,OK,jmeter-getting 1-36,text,true,,105841,501,4,4,https://accounts.google.com/ServiceLogin?service=classroom&passive=1209600&continue=https://classroom.google.com/&followup=https://classroom.google.com/&emr=1,195,0,133
+1637009088045,195,HTTP Request-0,301,Moved Permanently,jmeter-getting 1-36,text,true,,727,126,4,4,https://www.google.com/classroom,195,0,133
+1637009088241,919,HTTP Request-1,302,Moved Temporarily,jmeter-getting 1-36,text,true,,1917,123,4,4,https://classroom.google.com/,919,0,141
+1637009089162,418,HTTP Request-2,200,OK,jmeter-getting 1-36,text,true,,103197,252,4,4,https://accounts.google.com/ServiceLogin?service=classroom&passive=1209600&continue=https://classroom.google.com/&followup=https://classroom.google.com/&emr=1,237,0,139
+1637009088546,1697,HTTP Request,200,OK,jmeter-getting 1-37,text,true,,104768,501,4,4,https://accounts.google.com/ServiceLogin?service=classroom&passive=1209600&continue=https://classroom.google.com/&followup=https://classroom.google.com/&emr=1,210,0,148
+1637009088546,210,HTTP Request-0,301,Moved Permanently,jmeter-getting 1-37,text,true,,727,126,4,4,https://www.google.com/classroom,210,0,148
+1637009088757,1111,HTTP Request-1,302,Moved Temporarily,jmeter-getting 1-37,text,true,,1917,123,4,4,https://classroom.google.com/,1111,0,150
+1637009089870,373,HTTP Request-2,200,OK,jmeter-getting 1-37,text,true,,102124,252,4,4,https://accounts.google.com/ServiceLogin?service=classroom&passive=1209600&continue=https://classroom.google.com/&followup=https://classroom.google.com/&emr=1,218,0,127
+1637009089048,1473,HTTP Request,200,OK,jmeter-getting 1-38,text,true,,105721,501,3,3,https://accounts.google.com/ServiceLogin?service=classroom&passive=1209600&continue=https://classroom.google.com/&followup=https://classroom.google.com/&emr=1,203,0,144
+1637009089048,203,HTTP Request-0,301,Moved Permanently,jmeter-getting 1-38,text,true,,727,126,3,3,https://www.google.com/classroom,203,0,144
+1637009089252,903,HTTP Request-1,302,Moved Temporarily,jmeter-getting 1-38,text,true,,1917,123,3,3,https://classroom.google.com/,903,0,126
+1637009090156,365,HTTP Request-2,200,OK,jmeter-getting 1-38,text,true,,103077,252,3,3,https://accounts.google.com/ServiceLogin?service=classroom&passive=1209600&continue=https://classroom.google.com/&followup=https://classroom.google.com/&emr=1,210,0,126
+1637009089548,1736,HTTP Request,200,OK,jmeter-getting 1-39,text,true,,105827,501,4,4,https://accounts.google.com/ServiceLogin?service=classroom&passive=1209600&continue=https://classroom.google.com/&followup=https://classroom.google.com/&emr=1,205,0,143
+1637009089548,205,HTTP Request-0,301,Moved Permanently,jmeter-getting 1-39,text,true,,727,126,4,4,https://www.google.com/classroom,205,0,143
+1637009089755,1123,HTTP Request-1,302,Moved Temporarily,jmeter-getting 1-39,text,true,,1917,123,4,4,https://classroom.google.com/,1123,0,153
+1637009090880,404,HTTP Request-2,200,OK,jmeter-getting 1-39,text,true,,103183,252,4,4,https://accounts.google.com/ServiceLogin?service=classroom&passive=1209600&continue=https://classroom.google.com/&followup=https://classroom.google.com/&emr=1,246,0,148
+1637009090050,1507,HTTP Request,200,OK,jmeter-getting 1-40,text,true,,104850,501,4,4,https://accounts.google.com/ServiceLogin?service=classroom&passive=1209600&continue=https://classroom.google.com/&followup=https://classroom.google.com/&emr=1,200,0,140
+1637009090050,200,HTTP Request-0,301,Moved Permanently,jmeter-getting 1-40,text,true,,727,126,4,4,https://www.google.com/classroom,200,0,140
+1637009090251,923,HTTP Request-1,302,Moved Temporarily,jmeter-getting 1-40,text,true,,1917,123,4,4,https://classroom.google.com/,923,0,150
+1637009091175,382,HTTP Request-2,200,OK,jmeter-getting 1-40,text,true,,102206,252,4,4,https://accounts.google.com/ServiceLogin?service=classroom&passive=1209600&continue=https://classroom.google.com/&followup=https://classroom.google.com/&emr=1,228,0,131
+1637009090547,1757,HTTP Request,200,OK,jmeter-getting 1-41,text,true,,104976,501,4,4,https://accounts.google.com/ServiceLogin?service=classroom&passive=1209600&continue=https://classroom.google.com/&followup=https://classroom.google.com/&emr=1,196,0,135
+1637009090547,196,HTTP Request-0,301,Moved Permanently,jmeter-getting 1-41,text,true,,727,126,4,4,https://www.google.com/classroom,196,0,135
+1637009090745,1144,HTTP Request-1,302,Moved Temporarily,jmeter-getting 1-41,text,true,,1917,123,4,4,https://classroom.google.com/,1144,0,147
+1637009091891,413,HTTP Request-2,200,OK,jmeter-getting 1-41,text,true,,102332,252,4,4,https://accounts.google.com/ServiceLogin?service=classroom&passive=1209600&continue=https://classroom.google.com/&followup=https://classroom.google.com/&emr=1,249,0,152
+1637009091046,1503,HTTP Request,200,OK,jmeter-getting 1-42,text,true,,104922,501,3,3,https://accounts.google.com/ServiceLogin?service=classroom&passive=1209600&continue=https://classroom.google.com/&followup=https://classroom.google.com/&emr=1,187,0,128
+1637009091046,187,HTTP Request-0,301,Moved Permanently,jmeter-getting 1-42,text,true,,727,126,3,3,https://www.google.com/classroom,187,0,128
+1637009091234,921,HTTP Request-1,302,Moved Temporarily,jmeter-getting 1-42,text,true,,1917,123,3,3,https://classroom.google.com/,921,0,137
+1637009092157,392,HTTP Request-2,200,OK,jmeter-getting 1-42,text,true,,102278,252,3,3,https://accounts.google.com/ServiceLogin?service=classroom&passive=1209600&continue=https://classroom.google.com/&followup=https://classroom.google.com/&emr=1,233,0,139
+1637009091548,1727,HTTP Request,200,OK,jmeter-getting 1-43,text,true,,105943,501,4,4,https://accounts.google.com/ServiceLogin?service=classroom&passive=1209600&continue=https://classroom.google.com/&followup=https://classroom.google.com/&emr=1,210,0,149
+1637009091548,210,HTTP Request-0,301,Moved Permanently,jmeter-getting 1-43,text,true,,727,126,4,4,https://www.google.com/classroom,210,0,149
+1637009091759,1111,HTTP Request-1,302,Moved Temporarily,jmeter-getting 1-43,text,true,,1917,123,4,4,https://classroom.google.com/,1111,0,148
+1637009092871,404,HTTP Request-2,200,OK,jmeter-getting 1-43,text,true,,103299,252,4,4,https://accounts.google.com/ServiceLogin?service=classroom&passive=1209600&continue=https://classroom.google.com/&followup=https://classroom.google.com/&emr=1,240,0,147
+1637009092048,1561,HTTP Request,200,OK,jmeter-getting 1-44,text,true,,105909,501,4,4,https://accounts.google.com/ServiceLogin?service=classroom&passive=1209600&continue=https://classroom.google.com/&followup=https://classroom.google.com/&emr=1,207,0,147
+1637009092048,208,HTTP Request-0,301,Moved Permanently,jmeter-getting 1-44,text,true,,727,126,4,4,https://www.google.com/classroom,207,0,147
+1637009092257,919,HTTP Request-1,302,Moved Temporarily,jmeter-getting 1-44,text,true,,1917,123,4,4,https://classroom.google.com/,919,0,143
+1637009093178,431,HTTP Request-2,200,OK,jmeter-getting 1-44,text,true,,103265,252,4,4,https://accounts.google.com/ServiceLogin?service=classroom&passive=1209600&continue=https://classroom.google.com/&followup=https://classroom.google.com/&emr=1,267,0,161
+1637009092551,1721,HTTP Request,200,OK,jmeter-getting 1-45,text,true,,104784,501,4,4,https://accounts.google.com/ServiceLogin?service=classroom&passive=1209600&continue=https://classroom.google.com/&followup=https://classroom.google.com/&emr=1,205,0,143
+1637009092551,205,HTTP Request-0,301,Moved Permanently,jmeter-getting 1-45,text,true,,727,126,4,4,https://www.google.com/classroom,205,0,143
+1637009092757,1132,HTTP Request-1,302,Moved Temporarily,jmeter-getting 1-45,text,true,,1917,123,4,4,https://classroom.google.com/,1132,0,130
+1637009093890,382,HTTP Request-2,200,OK,jmeter-getting 1-45,text,true,,102140,252,4,4,https://accounts.google.com/ServiceLogin?service=classroom&passive=1209600&continue=https://classroom.google.com/&followup=https://classroom.google.com/&emr=1,231,0,134
+1637009093048,1491,HTTP Request,200,OK,jmeter-getting 1-46,text,true,,105629,501,3,3,https://accounts.google.com/ServiceLogin?service=classroom&passive=1209600&continue=https://classroom.google.com/&followup=https://classroom.google.com/&emr=1,206,0,144
+1637009093048,206,HTTP Request-0,301,Moved Permanently,jmeter-getting 1-46,text,true,,727,126,3,3,https://www.google.com/classroom,206,0,144
+1637009093256,925,HTTP Request-1,302,Moved Temporarily,jmeter-getting 1-46,text,true,,1917,123,3,3,https://classroom.google.com/,925,0,146
+1637009094182,357,HTTP Request-2,200,OK,jmeter-getting 1-46,text,true,,102985,252,3,3,https://accounts.google.com/ServiceLogin?service=classroom&passive=1209600&continue=https://classroom.google.com/&followup=https://classroom.google.com/&emr=1,210,0,124
+1637009093548,1749,HTTP Request,200,OK,jmeter-getting 1-47,text,true,,104856,501,4,4,https://accounts.google.com/ServiceLogin?service=classroom&passive=1209600&continue=https://classroom.google.com/&followup=https://classroom.google.com/&emr=1,218,0,160
+1637009093548,218,HTTP Request-0,301,Moved Permanently,jmeter-getting 1-47,text,true,,727,126,4,4,https://www.google.com/classroom,218,0,160
+1637009093768,1141,HTTP Request-1,302,Moved Temporarily,jmeter-getting 1-47,text,true,,1917,123,4,4,https://classroom.google.com/,1141,0,138
+1637009094910,387,HTTP Request-2,200,OK,jmeter-getting 1-47,text,true,,102212,252,4,4,https://accounts.google.com/ServiceLogin?service=classroom&passive=1209600&continue=https://classroom.google.com/&followup=https://classroom.google.com/&emr=1,236,0,143
+1637009094046,1541,HTTP Request,200,OK,jmeter-getting 1-48,text,true,,105885,501,4,4,https://accounts.google.com/ServiceLogin?service=classroom&passive=1209600&continue=https://classroom.google.com/&followup=https://classroom.google.com/&emr=1,207,0,144
+1637009094046,207,HTTP Request-0,301,Moved Permanently,jmeter-getting 1-48,text,true,,727,126,4,4,https://www.google.com/classroom,207,0,144
+1637009094253,932,HTTP Request-1,302,Moved Temporarily,jmeter-getting 1-48,text,true,,1917,123,4,4,https://classroom.google.com/,931,0,151
+1637009095186,401,HTTP Request-2,200,OK,jmeter-getting 1-48,text,true,,103241,252,4,4,https://accounts.google.com/ServiceLogin?service=classroom&passive=1209600&continue=https://classroom.google.com/&followup=https://classroom.google.com/&emr=1,241,0,144
+1637009094549,1254,HTTP Request,200,OK,jmeter-getting 1-49,text,true,,105995,501,3,3,https://accounts.google.com/ServiceLogin?service=classroom&passive=1209600&continue=https://classroom.google.com/&followup=https://classroom.google.com/&emr=1,209,0,149
+1637009094549,209,HTTP Request-0,301,Moved Permanently,jmeter-getting 1-49,text,true,,727,126,3,3,https://www.google.com/classroom,209,0,149
+1637009094759,672,HTTP Request-1,302,Moved Temporarily,jmeter-getting 1-49,text,true,,1917,123,3,3,https://classroom.google.com/,672,0,152
+1637009095431,372,HTTP Request-2,200,OK,jmeter-getting 1-49,text,true,,103351,252,3,3,https://accounts.google.com/ServiceLogin?service=classroom&passive=1209600&continue=https://classroom.google.com/&followup=https://classroom.google.com/&emr=1,215,0,122
+1637009095049,1502,HTTP Request,200,OK,jmeter-getting 1-50,text,true,,104902,501,4,4,https://accounts.google.com/ServiceLogin?service=classroom&passive=1209600&continue=https://classroom.google.com/&followup=https://classroom.google.com/&emr=1,218,0,154
+1637009095049,218,HTTP Request-0,301,Moved Permanently,jmeter-getting 1-50,text,true,,727,126,4,4,https://www.google.com/classroom,218,0,154
+1637009095268,912,HTTP Request-1,302,Moved Temporarily,jmeter-getting 1-50,text,true,,1917,123,4,4,https://classroom.google.com/,912,0,140
+1637009096183,369,HTTP Request-2,200,OK,jmeter-getting 1-50,text,true,,102258,252,4,4,https://accounts.google.com/ServiceLogin?service=classroom&passive=1209600&continue=https://classroom.google.com/&followup=https://classroom.google.com/&emr=1,217,0,122
+1637009095548,1752,HTTP Request,200,OK,jmeter-getting 1-51,text,true,,105715,501,4,4,https://accounts.google.com/ServiceLogin?service=classroom&passive=1209600&continue=https://classroom.google.com/&followup=https://classroom.google.com/&emr=1,187,0,130
+1637009095548,187,HTTP Request-0,301,Moved Permanently,jmeter-getting 1-51,text,true,,727,126,4,4,https://www.google.com/classroom,187,0,130
+1637009095737,1173,HTTP Request-1,302,Moved Temporarily,jmeter-getting 1-51,text,true,,1917,123,4,4,https://classroom.google.com/,1173,0,142
+1637009096911,389,HTTP Request-2,200,OK,jmeter-getting 1-51,text,true,,103071,252,4,4,https://accounts.google.com/ServiceLogin?service=classroom&passive=1209600&continue=https://classroom.google.com/&followup=https://classroom.google.com/&emr=1,224,0,129
+1637009096047,1547,HTTP Request,200,OK,jmeter-getting 1-52,text,true,,105741,501,4,4,https://accounts.google.com/ServiceLogin?service=classroom&passive=1209600&continue=https://classroom.google.com/&followup=https://classroom.google.com/&emr=1,214,0,155
+1637009096047,214,HTTP Request-0,301,Moved Permanently,jmeter-getting 1-52,text,true,,727,126,4,4,https://www.google.com/classroom,214,0,155
+1637009096262,914,HTTP Request-1,302,Moved Temporarily,jmeter-getting 1-52,text,true,,1917,123,4,4,https://classroom.google.com/,914,0,135
+1637009097178,416,HTTP Request-2,200,OK,jmeter-getting 1-52,text,true,,103097,252,4,4,https://accounts.google.com/ServiceLogin?service=classroom&passive=1209600&continue=https://classroom.google.com/&followup=https://classroom.google.com/&emr=1,251,0,153
+1637009096549,1744,HTTP Request,200,OK,jmeter-getting 1-53,text,true,,105987,501,4,4,https://accounts.google.com/ServiceLogin?service=classroom&passive=1209600&continue=https://classroom.google.com/&followup=https://classroom.google.com/&emr=1,212,0,152
+1637009096549,212,HTTP Request-0,301,Moved Permanently,jmeter-getting 1-53,text,true,,727,126,4,4,https://www.google.com/classroom,212,0,152
+1637009096762,1129,HTTP Request-1,302,Moved Temporarily,jmeter-getting 1-53,text,true,,1917,123,4,4,https://classroom.google.com/,1129,0,130
+1637009097893,400,HTTP Request-2,200,OK,jmeter-getting 1-53,text,true,,103343,252,4,4,https://accounts.google.com/ServiceLogin?service=classroom&passive=1209600&continue=https://classroom.google.com/&followup=https://classroom.google.com/&emr=1,236,0,139
+1637009097046,1540,HTTP Request,200,OK,jmeter-getting 1-54,text,true,,104934,501,4,4,https://accounts.google.com/ServiceLogin?service=classroom&passive=1209600&continue=https://classroom.google.com/&followup=https://classroom.google.com/&emr=1,206,0,146
+1637009097046,206,HTTP Request-0,301,Moved Permanently,jmeter-getting 1-54,text,true,,727,126,4,4,https://www.google.com/classroom,206,0,146
+1637009097254,931,HTTP Request-1,302,Moved Temporarily,jmeter-getting 1-54,text,true,,1917,123,4,4,https://classroom.google.com/,931,0,148
+1637009098185,401,HTTP Request-2,200,OK,jmeter-getting 1-54,text,true,,102290,252,4,4,https://accounts.google.com/ServiceLogin?service=classroom&passive=1209600&continue=https://classroom.google.com/&followup=https://classroom.google.com/&emr=1,239,0,140
+1637009097548,1732,HTTP Request,200,OK,jmeter-getting 1-55,text,true,,105871,501,4,4,https://accounts.google.com/ServiceLogin?service=classroom&passive=1209600&continue=https://classroom.google.com/&followup=https://classroom.google.com/&emr=1,193,0,130
+1637009097548,193,HTTP Request-0,301,Moved Permanently,jmeter-getting 1-55,text,true,,727,126,4,4,https://www.google.com/classroom,193,0,130
+1637009097742,1152,HTTP Request-1,302,Moved Temporarily,jmeter-getting 1-55,text,true,,1917,123,4,4,https://classroom.google.com/,1152,0,150
+1637009098895,385,HTTP Request-2,200,OK,jmeter-getting 1-55,text,true,,103227,252,4,4,https://accounts.google.com/ServiceLogin?service=classroom&passive=1209600&continue=https://classroom.google.com/&followup=https://classroom.google.com/&emr=1,236,0,139
+1637009098050,1354,HTTP Request,200,OK,jmeter-getting 1-56,text,true,,104876,501,3,3,https://accounts.google.com/ServiceLogin?service=classroom&passive=1209600&continue=https://classroom.google.com/&followup=https://classroom.google.com/&emr=1,188,0,128
+1637009098050,188,HTTP Request-0,301,Moved Permanently,jmeter-getting 1-56,text,true,,727,126,3,3,https://www.google.com/classroom,188,0,128
+1637009098239,783,HTTP Request-1,302,Moved Temporarily,jmeter-getting 1-56,text,true,,1917,123,3,3,https://classroom.google.com/,783,0,135
+1637009099024,380,HTTP Request-2,200,OK,jmeter-getting 1-56,text,true,,102232,252,3,3,https://accounts.google.com/ServiceLogin?service=classroom&passive=1209600&continue=https://classroom.google.com/&followup=https://classroom.google.com/&emr=1,219,0,128
+1637009098549,1508,HTTP Request,200,OK,jmeter-getting 1-57,text,true,,105764,501,4,4,https://accounts.google.com/ServiceLogin?service=classroom&passive=1209600&continue=https://classroom.google.com/&followup=https://classroom.google.com/&emr=1,192,0,131
+1637009098549,192,HTTP Request-0,301,Moved Permanently,jmeter-getting 1-57,text,true,,727,126,4,4,https://www.google.com/classroom,192,0,131
+1637009098742,906,HTTP Request-1,302,Moved Temporarily,jmeter-getting 1-57,text,true,,1917,123,4,4,https://classroom.google.com/,905,0,126
+1637009099650,407,HTTP Request-2,200,OK,jmeter-getting 1-57,text,true,,103120,252,4,4,https://accounts.google.com/ServiceLogin?service=classroom&passive=1209600&continue=https://classroom.google.com/&followup=https://classroom.google.com/&emr=1,246,0,152
+1637009099048,1720,HTTP Request,200,OK,jmeter-getting 1-58,text,true,,104856,501,4,4,https://accounts.google.com/ServiceLogin?service=classroom&passive=1209600&continue=https://classroom.google.com/&followup=https://classroom.google.com/&emr=1,187,0,127
+1637009099048,187,HTTP Request-0,301,Moved Permanently,jmeter-getting 1-58,text,true,,727,126,4,4,https://www.google.com/classroom,187,0,127
+1637009099235,1136,HTTP Request-1,302,Moved Temporarily,jmeter-getting 1-58,text,true,,1917,123,4,4,https://classroom.google.com/,1136,0,129
+1637009100373,395,HTTP Request-2,200,OK,jmeter-getting 1-58,text,true,,102212,252,4,4,https://accounts.google.com/ServiceLogin?service=classroom&passive=1209600&continue=https://classroom.google.com/&followup=https://classroom.google.com/&emr=1,242,0,142
+1637009099550,1512,HTTP Request,200,OK,jmeter-getting 1-59,text,true,,104736,501,4,4,https://accounts.google.com/ServiceLogin?service=classroom&passive=1209600&continue=https://classroom.google.com/&followup=https://classroom.google.com/&emr=1,193,0,136
+1637009099550,193,HTTP Request-0,301,Moved Permanently,jmeter-getting 1-59,text,true,,727,126,4,4,https://www.google.com/classroom,193,0,136
+1637009099745,930,HTTP Request-1,302,Moved Temporarily,jmeter-getting 1-59,text,true,,1917,123,4,4,https://classroom.google.com/,930,0,147
+1637009100676,386,HTTP Request-2,200,OK,jmeter-getting 1-59,text,true,,102092,252,4,4,https://accounts.google.com/ServiceLogin?service=classroom&passive=1209600&continue=https://classroom.google.com/&followup=https://classroom.google.com/&emr=1,234,0,140
+1637009100049,1708,HTTP Request,200,OK,jmeter-getting 1-60,text,true,,104764,501,4,4,https://accounts.google.com/ServiceLogin?service=classroom&passive=1209600&continue=https://classroom.google.com/&followup=https://classroom.google.com/&emr=1,176,0,121
+1637009100049,176,HTTP Request-0,301,Moved Permanently,jmeter-getting 1-60,text,true,,727,126,4,4,https://www.google.com/classroom,176,0,121
+1637009100226,1159,HTTP Request-1,302,Moved Temporarily,jmeter-getting 1-60,text,true,,1917,123,4,4,https://classroom.google.com/,1159,0,137
+1637009101386,370,HTTP Request-2,200,OK,jmeter-getting 1-60,text,true,,102120,252,4,4,https://accounts.google.com/ServiceLogin?service=classroom&passive=1209600&continue=https://classroom.google.com/&followup=https://classroom.google.com/&emr=1,216,0,129
+1637009100550,1501,HTTP Request,200,OK,jmeter-getting 1-61,text,true,,104900,501,4,4,https://accounts.google.com/ServiceLogin?service=classroom&passive=1209600&continue=https://classroom.google.com/&followup=https://classroom.google.com/&emr=1,198,0,136
+1637009100550,198,HTTP Request-0,301,Moved Permanently,jmeter-getting 1-61,text,true,,727,126,4,4,https://www.google.com/classroom,198,0,136
+1637009100749,921,HTTP Request-1,302,Moved Temporarily,jmeter-getting 1-61,text,true,,1917,123,4,4,https://classroom.google.com/,921,0,139
+1637009101672,379,HTTP Request-2,200,OK,jmeter-getting 1-61,text,true,,102256,252,4,4,https://accounts.google.com/ServiceLogin?service=classroom&passive=1209600&continue=https://classroom.google.com/&followup=https://classroom.google.com/&emr=1,223,0,124
+1637009101048,1139,HTTP Request,200,OK,jmeter-getting 1-62,text,true,,105871,501,3,3,https://accounts.google.com/ServiceLogin?service=classroom&passive=1209600&continue=https://classroom.google.com/&followup=https://classroom.google.com/&emr=1,184,0,125
+1637009101048,184,HTTP Request-0,301,Moved Permanently,jmeter-getting 1-62,text,true,,727,126,3,3,https://www.google.com/classroom,184,0,125
+1637009101233,564,HTTP Request-1,302,Moved Temporarily,jmeter-getting 1-62,text,true,,1917,123,3,3,https://classroom.google.com/,564,0,137
+1637009101797,390,HTTP Request-2,200,OK,jmeter-getting 1-62,text,true,,103227,252,3,3,https://accounts.google.com/ServiceLogin?service=classroom&passive=1209600&continue=https://classroom.google.com/&followup=https://classroom.google.com/&emr=1,224,0,134
+1637009101546,1002,HTTP Request,200,OK,jmeter-getting 1-63,text,true,,104906,501,3,3,https://accounts.google.com/ServiceLogin?service=classroom&passive=1209600&continue=https://classroom.google.com/&followup=https://classroom.google.com/&emr=1,194,0,134
+1637009101546,194,HTTP Request-0,301,Moved Permanently,jmeter-getting 1-63,text,true,,727,126,3,3,https://www.google.com/classroom,194,0,134
+1637009101740,431,HTTP Request-1,302,Moved Temporarily,jmeter-getting 1-63,text,true,,1917,123,3,3,https://classroom.google.com/,431,0,124
+1637009102172,376,HTTP Request-2,200,OK,jmeter-getting 1-63,text,true,,102262,252,3,3,https://accounts.google.com/ServiceLogin?service=classroom&passive=1209600&continue=https://classroom.google.com/&followup=https://classroom.google.com/&emr=1,224,0,136
+1637009102047,1583,HTTP Request,200,OK,jmeter-getting 1-64,text,true,,104894,501,4,4,https://accounts.google.com/ServiceLogin?service=classroom&passive=1209600&continue=https://classroom.google.com/&followup=https://classroom.google.com/&emr=1,205,0,143
+1637009102047,205,HTTP Request-0,301,Moved Permanently,jmeter-getting 1-64,text,true,,727,126,4,4,https://www.google.com/classroom,205,0,143
+1637009102252,925,HTTP Request-1,302,Moved Temporarily,jmeter-getting 1-64,text,true,,1917,123,4,4,https://classroom.google.com/,925,0,146
+1637009103178,452,HTTP Request-2,200,OK,jmeter-getting 1-64,text,true,,102250,252,4,4,https://accounts.google.com/ServiceLogin?service=classroom&passive=1209600&continue=https://classroom.google.com/&followup=https://classroom.google.com/&emr=1,285,0,148
+1637009102547,1281,HTTP Request,200,OK,jmeter-getting 1-65,text,true,,105823,501,3,3,https://accounts.google.com/ServiceLogin?service=classroom&passive=1209600&continue=https://classroom.google.com/&followup=https://classroom.google.com/&emr=1,188,0,128
+1637009102547,188,HTTP Request-0,301,Moved Permanently,jmeter-getting 1-65,text,true,,727,126,3,3,https://www.google.com/classroom,188,0,128
+1637009102736,691,HTTP Request-1,302,Moved Temporarily,jmeter-getting 1-65,text,true,,1917,123,3,3,https://classroom.google.com/,691,0,147
+1637009103429,399,HTTP Request-2,200,OK,jmeter-getting 1-65,text,true,,103179,252,3,3,https://accounts.google.com/ServiceLogin?service=classroom&passive=1209600&continue=https://classroom.google.com/&followup=https://classroom.google.com/&emr=1,243,0,143
+1637009103048,1522,HTTP Request,200,OK,jmeter-getting 1-66,text,true,,105921,501,4,4,https://accounts.google.com/ServiceLogin?service=classroom&passive=1209600&continue=https://classroom.google.com/&followup=https://classroom.google.com/&emr=1,217,0,150
+1637009103048,217,HTTP Request-0,301,Moved Permanently,jmeter-getting 1-66,text,true,,727,126,4,4,https://www.google.com/classroom,217,0,150
+1637009103267,924,HTTP Request-1,302,Moved Temporarily,jmeter-getting 1-66,text,true,,1917,123,4,4,https://classroom.google.com/,924,0,146
+1637009104192,378,HTTP Request-2,200,OK,jmeter-getting 1-66,text,true,,103277,252,4,4,https://accounts.google.com/ServiceLogin?service=classroom&passive=1209600&continue=https://classroom.google.com/&followup=https://classroom.google.com/&emr=1,223,0,124
+1637009103548,1768,HTTP Request,200,OK,jmeter-getting 1-67,text,true,,105951,501,4,4,https://accounts.google.com/ServiceLogin?service=classroom&passive=1209600&continue=https://classroom.google.com/&followup=https://classroom.google.com/&emr=1,196,0,138
+1637009103548,196,HTTP Request-0,301,Moved Permanently,jmeter-getting 1-67,text,true,,727,126,4,4,https://www.google.com/classroom,196,0,138
+1637009103745,1170,HTTP Request-1,302,Moved Temporarily,jmeter-getting 1-67,text,true,,1917,123,4,4,https://classroom.google.com/,1170,0,149
+1637009104917,399,HTTP Request-2,200,OK,jmeter-getting 1-67,text,true,,103307,252,4,4,https://accounts.google.com/ServiceLogin?service=classroom&passive=1209600&continue=https://classroom.google.com/&followup=https://classroom.google.com/&emr=1,232,0,137
+1637009104047,1765,HTTP Request,200,OK,jmeter-getting 1-68,text,true,,104832,501,4,4,https://accounts.google.com/ServiceLogin?service=classroom&passive=1209600&continue=https://classroom.google.com/&followup=https://classroom.google.com/&emr=1,216,0,155
+1637009104047,216,HTTP Request-0,301,Moved Permanently,jmeter-getting 1-68,text,true,,727,126,4,4,https://www.google.com/classroom,216,0,155
+1637009104264,1131,HTTP Request-1,302,Moved Temporarily,jmeter-getting 1-68,text,true,,1917,123,4,4,https://classroom.google.com/,1131,0,129
+1637009105397,415,HTTP Request-2,200,OK,jmeter-getting 1-68,text,true,,102188,252,4,4,https://accounts.google.com/ServiceLogin?service=classroom&passive=1209600&continue=https://classroom.google.com/&followup=https://classroom.google.com/&emr=1,248,0,151
+1637009104546,1835,HTTP Request,200,OK,jmeter-getting 1-69,text,true,,105867,501,4,4,https://accounts.google.com/ServiceLogin?service=classroom&passive=1209600&continue=https://classroom.google.com/&followup=https://classroom.google.com/&emr=1,187,0,129
+1637009104546,187,HTTP Request-0,301,Moved Permanently,jmeter-getting 1-69,text,true,,727,126,4,4,https://www.google.com/classroom,187,0,129
+1637009104735,1238,HTTP Request-1,302,Moved Temporarily,jmeter-getting 1-69,text,true,,1917,123,4,4,https://classroom.google.com/,1238,0,137
+1637009105974,407,HTTP Request-2,200,OK,jmeter-getting 1-69,text,true,,103223,252,4,4,https://accounts.google.com/ServiceLogin?service=classroom&passive=1209600&continue=https://classroom.google.com/&followup=https://classroom.google.com/&emr=1,243,0,147
+1637009105049,1544,HTTP Request,200,OK,jmeter-getting 1-70,text,true,,106001,501,4,4,https://accounts.google.com/ServiceLogin?service=classroom&passive=1209600&continue=https://classroom.google.com/&followup=https://classroom.google.com/&emr=1,208,0,145
+1637009105049,208,HTTP Request-0,301,Moved Permanently,jmeter-getting 1-70,text,true,,727,126,4,4,https://www.google.com/classroom,208,0,145
+1637009105259,920,HTTP Request-1,302,Moved Temporarily,jmeter-getting 1-70,text,true,,1917,123,4,4,https://classroom.google.com/,920,0,146
+1637009106180,413,HTTP Request-2,200,OK,jmeter-getting 1-70,text,true,,103357,252,4,4,https://accounts.google.com/ServiceLogin?service=classroom&passive=1209600&continue=https://classroom.google.com/&followup=https://classroom.google.com/&emr=1,243,0,144
+1637009105549,1728,HTTP Request,200,OK,jmeter-getting 1-71,text,true,,105839,501,4,4,https://accounts.google.com/ServiceLogin?service=classroom&passive=1209600&continue=https://classroom.google.com/&followup=https://classroom.google.com/&emr=1,208,0,148
+1637009105549,208,HTTP Request-0,301,Moved Permanently,jmeter-getting 1-71,text,true,,727,126,4,4,https://www.google.com/classroom,208,0,148
+1637009105759,1135,HTTP Request-1,302,Moved Temporarily,jmeter-getting 1-71,text,true,,1917,123,4,4,https://classroom.google.com/,1135,0,146
+1637009106895,382,HTTP Request-2,200,OK,jmeter-getting 1-71,text,true,,103195,252,4,4,https://accounts.google.com/ServiceLogin?service=classroom&passive=1209600&continue=https://classroom.google.com/&followup=https://classroom.google.com/&emr=1,226,0,136
+1637009106047,1559,HTTP Request,200,OK,jmeter-getting 1-72,text,true,,105981,501,4,4,https://accounts.google.com/ServiceLogin?service=classroom&passive=1209600&continue=https://classroom.google.com/&followup=https://classroom.google.com/&emr=1,214,0,154
+1637009106047,214,HTTP Request-0,301,Moved Permanently,jmeter-getting 1-72,text,true,,727,126,4,4,https://www.google.com/classroom,214,0,154
+1637009106261,917,HTTP Request-1,302,Moved Temporarily,jmeter-getting 1-72,text,true,,1917,123,4,4,https://classroom.google.com/,917,0,136
+1637009107180,426,HTTP Request-2,200,OK,jmeter-getting 1-72,text,true,,103337,252,4,4,https://accounts.google.com/ServiceLogin?service=classroom&passive=1209600&continue=https://classroom.google.com/&followup=https://classroom.google.com/&emr=1,258,0,152
+1637009106546,1764,HTTP Request,200,OK,jmeter-getting 1-73,text,true,,105835,501,4,4,https://accounts.google.com/ServiceLogin?service=classroom&passive=1209600&continue=https://classroom.google.com/&followup=https://classroom.google.com/&emr=1,182,0,126
+1637009106546,182,HTTP Request-0,301,Moved Permanently,jmeter-getting 1-73,text,true,,727,126,4,4,https://www.google.com/classroom,182,0,126
+1637009106729,1168,HTTP Request-1,302,Moved Temporarily,jmeter-getting 1-73,text,true,,1917,123,4,4,https://classroom.google.com/,1168,0,136
+1637009107899,411,HTTP Request-2,200,OK,jmeter-getting 1-73,text,true,,103191,252,4,4,https://accounts.google.com/ServiceLogin?service=classroom&passive=1209600&continue=https://classroom.google.com/&followup=https://classroom.google.com/&emr=1,249,0,151
+1637009107047,1518,HTTP Request,200,OK,jmeter-getting 1-74,text,true,,104802,501,4,4,https://accounts.google.com/ServiceLogin?service=classroom&passive=1209600&continue=https://classroom.google.com/&followup=https://classroom.google.com/&emr=1,204,0,144
+1637009107047,205,HTTP Request-0,301,Moved Permanently,jmeter-getting 1-74,text,true,,727,126,4,4,https://www.google.com/classroom,204,0,144
+1637009107253,921,HTTP Request-1,302,Moved Temporarily,jmeter-getting 1-74,text,true,,1917,123,4,4,https://classroom.google.com/,921,0,145
+1637009108176,389,HTTP Request-2,200,OK,jmeter-getting 1-74,text,true,,102158,252,4,4,https://accounts.google.com/ServiceLogin?service=classroom&passive=1209600&continue=https://classroom.google.com/&followup=https://classroom.google.com/&emr=1,224,0,134
+1637009107568,1708,HTTP Request,200,OK,jmeter-getting 1-75,text,true,,104800,501,4,4,https://accounts.google.com/ServiceLogin?service=classroom&passive=1209600&continue=https://classroom.google.com/&followup=https://classroom.google.com/&emr=1,196,0,137
+1637009107568,196,HTTP Request-0,301,Moved Permanently,jmeter-getting 1-75,text,true,,727,126,4,4,https://www.google.com/classroom,196,0,137
+1637009107766,1125,HTTP Request-1,302,Moved Temporarily,jmeter-getting 1-75,text,true,,1917,123,4,4,https://classroom.google.com/,1125,0,147
+1637009108893,383,HTTP Request-2,200,OK,jmeter-getting 1-75,text,true,,102156,252,4,4,https://accounts.google.com/ServiceLogin?service=classroom&passive=1209600&continue=https://classroom.google.com/&followup=https://classroom.google.com/&emr=1,231,0,146
+1637009108049,1529,HTTP Request,200,OK,jmeter-getting 1-76,text,true,,105873,501,4,4,https://accounts.google.com/ServiceLogin?service=classroom&passive=1209600&continue=https://classroom.google.com/&followup=https://classroom.google.com/&emr=1,216,0,152
+1637009108049,216,HTTP Request-0,301,Moved Permanently,jmeter-getting 1-76,text,true,,727,126,4,4,https://www.google.com/classroom,216,0,152
+1637009108265,902,HTTP Request-1,302,Moved Temporarily,jmeter-getting 1-76,text,true,,1917,123,4,4,https://classroom.google.com/,902,0,130
+1637009109169,409,HTTP Request-2,200,OK,jmeter-getting 1-76,text,true,,103229,252,4,4,https://accounts.google.com/ServiceLogin?service=classroom&passive=1209600&continue=https://classroom.google.com/&followup=https://classroom.google.com/&emr=1,246,0,156
+1637009108547,1731,HTTP Request,200,OK,jmeter-getting 1-77,text,true,,104832,501,4,4,https://accounts.google.com/ServiceLogin?service=classroom&passive=1209600&continue=https://classroom.google.com/&followup=https://classroom.google.com/&emr=1,211,0,152
+1637009108547,211,HTTP Request-0,301,Moved Permanently,jmeter-getting 1-77,text,true,,727,126,4,4,https://www.google.com/classroom,211,0,152
+1637009108759,1123,HTTP Request-1,302,Moved Temporarily,jmeter-getting 1-77,text,true,,1917,123,4,4,https://classroom.google.com/,1123,0,150
+1637009109883,395,HTTP Request-2,200,OK,jmeter-getting 1-77,text,true,,102188,252,4,4,https://accounts.google.com/ServiceLogin?service=classroom&passive=1209600&continue=https://classroom.google.com/&followup=https://classroom.google.com/&emr=1,223,0,129
+1637009109047,1513,HTTP Request,200,OK,jmeter-getting 1-78,text,true,,104886,501,4,4,https://accounts.google.com/ServiceLogin?service=classroom&passive=1209600&continue=https://classroom.google.com/&followup=https://classroom.google.com/&emr=1,213,0,152
+1637009109047,214,HTTP Request-0,301,Moved Permanently,jmeter-getting 1-78,text,true,,727,126,4,4,https://www.google.com/classroom,213,0,152
+1637009109262,926,HTTP Request-1,302,Moved Temporarily,jmeter-getting 1-78,text,true,,1917,123,4,4,https://classroom.google.com/,926,0,146
+1637009110189,371,HTTP Request-2,200,OK,jmeter-getting 1-78,text,true,,102242,252,4,4,https://accounts.google.com/ServiceLogin?service=classroom&passive=1209600&continue=https://classroom.google.com/&followup=https://classroom.google.com/&emr=1,218,0,128
+1637009110046,959,HTTP Request,200,OK,jmeter-getting 1-80,text,true,,105855,501,3,3,https://accounts.google.com/ServiceLogin?service=classroom&passive=1209600&continue=https://classroom.google.com/&followup=https://classroom.google.com/&emr=1,196,0,137
+1637009110046,196,HTTP Request-0,301,Moved Permanently,jmeter-getting 1-80,text,true,,727,126,3,3,https://www.google.com/classroom,196,0,137
+1637009110242,350,HTTP Request-1,302,Moved Temporarily,jmeter-getting 1-80,text,true,,1917,123,3,3,https://classroom.google.com/,350,0,153
+1637009110594,411,HTTP Request-2,200,OK,jmeter-getting 1-80,text,true,,103211,252,3,3,https://accounts.google.com/ServiceLogin?service=classroom&passive=1209600&continue=https://classroom.google.com/&followup=https://classroom.google.com/&emr=1,240,0,138
+1637009109547,1751,HTTP Request,200,OK,jmeter-getting 1-79,text,true,,104844,501,3,3,https://accounts.google.com/ServiceLogin?service=classroom&passive=1209600&continue=https://classroom.google.com/&followup=https://classroom.google.com/&emr=1,223,0,160
+1637009109547,223,HTTP Request-0,301,Moved Permanently,jmeter-getting 1-79,text,true,,727,126,3,3,https://www.google.com/classroom,223,0,160
+1637009109771,1127,HTTP Request-1,302,Moved Temporarily,jmeter-getting 1-79,text,true,,1917,123,3,3,https://classroom.google.com/,1127,0,131
+1637009110899,399,HTTP Request-2,200,OK,jmeter-getting 1-79,text,true,,102200,252,3,3,https://accounts.google.com/ServiceLogin?service=classroom&passive=1209600&continue=https://classroom.google.com/&followup=https://classroom.google.com/&emr=1,237,0,143
+1637009110548,1070,HTTP Request,200,OK,jmeter-getting 1-81,text,true,,105917,501,3,3,https://accounts.google.com/ServiceLogin?service=classroom&passive=1209600&continue=https://classroom.google.com/&followup=https://classroom.google.com/&emr=1,220,0,158
+1637009110548,220,HTTP Request-0,301,Moved Permanently,jmeter-getting 1-81,text,true,,727,126,3,3,https://www.google.com/classroom,220,0,158
+1637009110769,452,HTTP Request-1,302,Moved Temporarily,jmeter-getting 1-81,text,true,,1917,123,3,3,https://classroom.google.com/,452,0,144
+1637009111223,395,HTTP Request-2,200,OK,jmeter-getting 1-81,text,true,,103273,252,3,3,https://accounts.google.com/ServiceLogin?service=classroom&passive=1209600&continue=https://classroom.google.com/&followup=https://classroom.google.com/&emr=1,235,0,141
+1637009111048,1052,HTTP Request,200,OK,jmeter-getting 1-82,text,true,,105879,501,3,3,https://accounts.google.com/ServiceLogin?service=classroom&passive=1209600&continue=https://classroom.google.com/&followup=https://classroom.google.com/&emr=1,201,0,144
+1637009111048,202,HTTP Request-0,301,Moved Permanently,jmeter-getting 1-82,text,true,,727,126,3,3,https://www.google.com/classroom,201,0,144
+1637009111250,459,HTTP Request-1,302,Moved Temporarily,jmeter-getting 1-82,text,true,,1917,123,3,3,https://classroom.google.com/,459,0,145
+1637009111711,389,HTTP Request-2,200,OK,jmeter-getting 1-82,text,true,,103235,252,3,3,https://accounts.google.com/ServiceLogin?service=classroom&passive=1209600&continue=https://classroom.google.com/&followup=https://classroom.google.com/&emr=1,227,0,132
+1637009111546,907,HTTP Request,200,OK,jmeter-getting 1-83,text,true,,104736,501,2,2,https://accounts.google.com/ServiceLogin?service=classroom&passive=1209600&continue=https://classroom.google.com/&followup=https://classroom.google.com/&emr=1,187,0,130
+1637009111546,187,HTTP Request-0,301,Moved Permanently,jmeter-getting 1-83,text,true,,727,126,2,2,https://www.google.com/classroom,187,0,130
+1637009111734,320,HTTP Request-1,302,Moved Temporarily,jmeter-getting 1-83,text,true,,1917,123,2,2,https://classroom.google.com/,320,0,128
+1637009112055,398,HTTP Request-2,200,OK,jmeter-getting 1-83,text,true,,102092,252,2,2,https://accounts.google.com/ServiceLogin?service=classroom&passive=1209600&continue=https://classroom.google.com/&followup=https://classroom.google.com/&emr=1,234,0,140
+1637009112047,1512,HTTP Request,200,OK,jmeter-getting 1-84,text,true,,105881,501,4,4,https://accounts.google.com/ServiceLogin?service=classroom&passive=1209600&continue=https://classroom.google.com/&followup=https://classroom.google.com/&emr=1,200,0,139
+1637009112047,200,HTTP Request-0,301,Moved Permanently,jmeter-getting 1-84,text,true,,727,126,4,4,https://www.google.com/classroom,200,0,139
+1637009112249,933,HTTP Request-1,302,Moved Temporarily,jmeter-getting 1-84,text,true,,1917,123,4,4,https://classroom.google.com/,933,0,146
+1637009113184,375,HTTP Request-2,200,OK,jmeter-getting 1-84,text,true,,103237,252,4,4,https://accounts.google.com/ServiceLogin?service=classroom&passive=1209600&continue=https://classroom.google.com/&followup=https://classroom.google.com/&emr=1,221,0,132
+1637009112547,1745,HTTP Request,200,OK,jmeter-getting 1-85,text,true,,104892,501,4,4,https://accounts.google.com/ServiceLogin?service=classroom&passive=1209600&continue=https://classroom.google.com/&followup=https://classroom.google.com/&emr=1,205,0,144
+1637009112547,205,HTTP Request-0,301,Moved Permanently,jmeter-getting 1-85,text,true,,727,126,4,4,https://www.google.com/classroom,205,0,144
+1637009112754,1147,HTTP Request-1,302,Moved Temporarily,jmeter-getting 1-85,text,true,,1917,123,4,4,https://classroom.google.com/,1147,0,136
+1637009113903,389,HTTP Request-2,200,OK,jmeter-getting 1-85,text,true,,102248,252,4,4,https://accounts.google.com/ServiceLogin?service=classroom&passive=1209600&continue=https://classroom.google.com/&followup=https://classroom.google.com/&emr=1,233,0,138
+1637009113049,1511,HTTP Request,200,OK,jmeter-getting 1-86,text,true,,104822,501,4,4,https://accounts.google.com/ServiceLogin?service=classroom&passive=1209600&continue=https://classroom.google.com/&followup=https://classroom.google.com/&emr=1,199,0,139
+1637009113049,199,HTTP Request-0,301,Moved Permanently,jmeter-getting 1-86,text,true,,727,126,4,4,https://www.google.com/classroom,199,0,139
+1637009113249,926,HTTP Request-1,302,Moved Temporarily,jmeter-getting 1-86,text,true,,1917,123,4,4,https://classroom.google.com/,926,0,143
+1637009114175,385,HTTP Request-2,200,OK,jmeter-getting 1-86,text,true,,102178,252,4,4,https://accounts.google.com/ServiceLogin?service=classroom&passive=1209600&continue=https://classroom.google.com/&followup=https://classroom.google.com/&emr=1,233,0,146
+1637009113549,1738,HTTP Request,200,OK,jmeter-getting 1-87,text,true,,104892,501,4,4,https://accounts.google.com/ServiceLogin?service=classroom&passive=1209600&continue=https://classroom.google.com/&followup=https://classroom.google.com/&emr=1,207,0,148
+1637009113549,207,HTTP Request-0,301,Moved Permanently,jmeter-getting 1-87,text,true,,727,126,4,4,https://www.google.com/classroom,207,0,148
+1637009113756,1131,HTTP Request-1,302,Moved Temporarily,jmeter-getting 1-87,text,true,,1917,123,4,4,https://classroom.google.com/,1131,0,153
+1637009114889,398,HTTP Request-2,200,OK,jmeter-getting 1-87,text,true,,102248,252,4,4,https://accounts.google.com/ServiceLogin?service=classroom&passive=1209600&continue=https://classroom.google.com/&followup=https://classroom.google.com/&emr=1,240,0,148
+1637009114047,1548,HTTP Request,200,OK,jmeter-getting 1-88,text,true,,105801,501,4,4,https://accounts.google.com/ServiceLogin?service=classroom&passive=1209600&continue=https://classroom.google.com/&followup=https://classroom.google.com/&emr=1,205,0,146
+1637009114047,205,HTTP Request-0,301,Moved Permanently,jmeter-getting 1-88,text,true,,727,126,4,4,https://www.google.com/classroom,205,0,146
+1637009114253,933,HTTP Request-1,302,Moved Temporarily,jmeter-getting 1-88,text,true,,1917,123,4,4,https://classroom.google.com/,933,0,152
+1637009115188,407,HTTP Request-2,200,OK,jmeter-getting 1-88,text,true,,103157,252,4,4,https://accounts.google.com/ServiceLogin?service=classroom&passive=1209600&continue=https://classroom.google.com/&followup=https://classroom.google.com/&emr=1,244,0,151
+1637009114547,1149,HTTP Request,200,OK,jmeter-getting 1-89,text,true,,104830,501,3,3,https://accounts.google.com/ServiceLogin?service=classroom&passive=1209600&continue=https://classroom.google.com/&followup=https://classroom.google.com/&emr=1,214,0,152
+1637009114547,214,HTTP Request-0,301,Moved Permanently,jmeter-getting 1-89,text,true,,727,126,3,3,https://www.google.com/classroom,214,0,152
+1637009114762,549,HTTP Request-1,302,Moved Temporarily,jmeter-getting 1-89,text,true,,1917,123,3,3,https://classroom.google.com/,548,0,153
+1637009115311,385,HTTP Request-2,200,OK,jmeter-getting 1-89,text,true,,102186,252,3,3,https://accounts.google.com/ServiceLogin?service=classroom&passive=1209600&continue=https://classroom.google.com/&followup=https://classroom.google.com/&emr=1,232,0,138
+1637009115048,1058,HTTP Request,200,OK,jmeter-getting 1-90,text,true,,105843,501,3,3,https://accounts.google.com/ServiceLogin?service=classroom&passive=1209600&continue=https://classroom.google.com/&followup=https://classroom.google.com/&emr=1,211,0,150
+1637009115048,212,HTTP Request-0,301,Moved Permanently,jmeter-getting 1-90,text,true,,727,126,3,3,https://www.google.com/classroom,211,0,150
+1637009115261,453,HTTP Request-1,302,Moved Temporarily,jmeter-getting 1-90,text,true,,1917,123,3,3,https://classroom.google.com/,453,0,140
+1637009115715,391,HTTP Request-2,200,OK,jmeter-getting 1-90,text,true,,103199,252,3,3,https://accounts.google.com/ServiceLogin?service=classroom&passive=1209600&continue=https://classroom.google.com/&followup=https://classroom.google.com/&emr=1,231,0,134
+1637009115547,946,HTTP Request,200,OK,jmeter-getting 1-91,text,true,,105845,501,2,2,https://accounts.google.com/ServiceLogin?service=classroom&passive=1209600&continue=https://classroom.google.com/&followup=https://classroom.google.com/&emr=1,210,0,150
+1637009115547,210,HTTP Request-0,301,Moved Permanently,jmeter-getting 1-91,text,true,,727,126,2,2,https://www.google.com/classroom,210,0,150
+1637009115759,328,HTTP Request-1,302,Moved Temporarily,jmeter-getting 1-91,text,true,,1917,123,2,2,https://classroom.google.com/,328,0,136
+1637009116088,405,HTTP Request-2,200,OK,jmeter-getting 1-91,text,true,,103201,252,2,2,https://accounts.google.com/ServiceLogin?service=classroom&passive=1209600&continue=https://classroom.google.com/&followup=https://classroom.google.com/&emr=1,242,0,152
+1637009116049,1512,HTTP Request,200,OK,jmeter-getting 1-92,text,true,,104814,501,4,4,https://accounts.google.com/ServiceLogin?service=classroom&passive=1209600&continue=https://classroom.google.com/&followup=https://classroom.google.com/&emr=1,206,0,147
+1637009116049,206,HTTP Request-0,301,Moved Permanently,jmeter-getting 1-92,text,true,,727,126,4,4,https://www.google.com/classroom,206,0,147
+1637009116256,926,HTTP Request-1,302,Moved Temporarily,jmeter-getting 1-92,text,true,,1917,123,4,4,https://classroom.google.com/,926,0,152
+1637009117183,378,HTTP Request-2,200,OK,jmeter-getting 1-92,text,true,,102170,252,4,4,https://accounts.google.com/ServiceLogin?service=classroom&passive=1209600&continue=https://classroom.google.com/&followup=https://classroom.google.com/&emr=1,219,0,126
+1637009116549,1741,HTTP Request,200,OK,jmeter-getting 1-93,text,true,,104888,501,4,4,https://accounts.google.com/ServiceLogin?service=classroom&passive=1209600&continue=https://classroom.google.com/&followup=https://classroom.google.com/&emr=1,206,0,145
+1637009116549,207,HTTP Request-0,301,Moved Permanently,jmeter-getting 1-93,text,true,,727,126,4,4,https://www.google.com/classroom,206,0,145
+1637009116757,1141,HTTP Request-1,302,Moved Temporarily,jmeter-getting 1-93,text,true,,1917,123,4,4,https://classroom.google.com/,1141,0,150
+1637009117899,391,HTTP Request-2,200,OK,jmeter-getting 1-93,text,true,,102244,252,4,4,https://accounts.google.com/ServiceLogin?service=classroom&passive=1209600&continue=https://classroom.google.com/&followup=https://classroom.google.com/&emr=1,235,0,138
+1637009117047,1482,HTTP Request,200,OK,jmeter-getting 1-94,text,true,,104854,501,3,3,https://accounts.google.com/ServiceLogin?service=classroom&passive=1209600&continue=https://classroom.google.com/&followup=https://classroom.google.com/&emr=1,189,0,128
+1637009117047,189,HTTP Request-0,301,Moved Permanently,jmeter-getting 1-94,text,true,,727,126,3,3,https://www.google.com/classroom,189,0,128
+1637009117236,921,HTTP Request-1,302,Moved Temporarily,jmeter-getting 1-94,text,true,,1917,123,3,3,https://classroom.google.com/,921,0,134
+1637009118159,370,HTTP Request-2,200,OK,jmeter-getting 1-94,text,true,,102210,252,3,3,https://accounts.google.com/ServiceLogin?service=classroom&passive=1209600&continue=https://classroom.google.com/&followup=https://classroom.google.com/&emr=1,215,0,128
+1637009117548,1732,HTTP Request,200,OK,jmeter-getting 1-95,text,true,,104756,501,4,4,https://accounts.google.com/ServiceLogin?service=classroom&passive=1209600&continue=https://classroom.google.com/&followup=https://classroom.google.com/&emr=1,215,0,152
+1637009117548,215,HTTP Request-0,301,Moved Permanently,jmeter-getting 1-95,text,true,,727,126,4,4,https://www.google.com/classroom,215,0,152
+1637009117764,1105,HTTP Request-1,302,Moved Temporarily,jmeter-getting 1-95,text,true,,1917,123,4,4,https://classroom.google.com/,1105,0,149
+1637009118871,409,HTTP Request-2,200,OK,jmeter-getting 1-95,text,true,,102112,252,4,4,https://accounts.google.com/ServiceLogin?service=classroom&passive=1209600&continue=https://classroom.google.com/&followup=https://classroom.google.com/&emr=1,246,0,152
+1637009118049,1486,HTTP Request,200,OK,jmeter-getting 1-96,text,true,,105749,501,3,3,https://accounts.google.com/ServiceLogin?service=classroom&passive=1209600&continue=https://classroom.google.com/&followup=https://classroom.google.com/&emr=1,197,0,139
+1637009118049,197,HTTP Request-0,301,Moved Permanently,jmeter-getting 1-96,text,true,,727,126,3,3,https://www.google.com/classroom,197,0,139
+1637009118247,897,HTTP Request-1,302,Moved Temporarily,jmeter-getting 1-96,text,true,,1917,123,3,3,https://classroom.google.com/,897,0,122
+1637009119145,390,HTTP Request-2,200,OK,jmeter-getting 1-96,text,true,,103105,252,3,3,https://accounts.google.com/ServiceLogin?service=classroom&passive=1209600&continue=https://classroom.google.com/&followup=https://classroom.google.com/&emr=1,238,0,142
+1637009118563,1705,HTTP Request,200,OK,jmeter-getting 1-97,text,true,,105783,501,4,4,https://accounts.google.com/ServiceLogin?service=classroom&passive=1209600&continue=https://classroom.google.com/&followup=https://classroom.google.com/&emr=1,209,0,150
+1637009118563,209,HTTP Request-0,301,Moved Permanently,jmeter-getting 1-97,text,true,,727,126,4,4,https://www.google.com/classroom,209,0,150
+1637009118773,1088,HTTP Request-1,302,Moved Temporarily,jmeter-getting 1-97,text,true,,1917,123,4,4,https://classroom.google.com/,1088,0,134
+1637009119862,406,HTTP Request-2,200,OK,jmeter-getting 1-97,text,true,,103139,252,4,4,https://accounts.google.com/ServiceLogin?service=classroom&passive=1209600&continue=https://classroom.google.com/&followup=https://classroom.google.com/&emr=1,245,0,147
+1637009119048,1525,HTTP Request,200,OK,jmeter-getting 1-98,text,true,,104866,501,3,3,https://accounts.google.com/ServiceLogin?service=classroom&passive=1209600&continue=https://classroom.google.com/&followup=https://classroom.google.com/&emr=1,214,0,153
+1637009119048,214,HTTP Request-0,301,Moved Permanently,jmeter-getting 1-98,text,true,,727,126,3,3,https://www.google.com/classroom,214,0,153
+1637009119264,927,HTTP Request-1,302,Moved Temporarily,jmeter-getting 1-98,text,true,,1917,123,3,3,https://classroom.google.com/,926,0,149
+1637009120192,381,HTTP Request-2,200,OK,jmeter-getting 1-98,text,true,,102222,252,3,3,https://accounts.google.com/ServiceLogin?service=classroom&passive=1209600&continue=https://classroom.google.com/&followup=https://classroom.google.com/&emr=1,227,0,127
+1637009119548,1298,HTTP Request,200,OK,jmeter-getting 1-99,text,true,,105895,501,2,2,https://accounts.google.com/ServiceLogin?service=classroom&passive=1209600&continue=https://classroom.google.com/&followup=https://classroom.google.com/&emr=1,217,0,154
+1637009119548,218,HTTP Request-0,301,Moved Permanently,jmeter-getting 1-99,text,true,,727,126,2,2,https://www.google.com/classroom,217,0,154
+1637009119767,674,HTTP Request-1,302,Moved Temporarily,jmeter-getting 1-99,text,true,,1917,123,2,2,https://classroom.google.com/,674,0,154
+1637009120442,404,HTTP Request-2,200,OK,jmeter-getting 1-99,text,true,,103251,252,2,2,https://accounts.google.com/ServiceLogin?service=classroom&passive=1209600&continue=https://classroom.google.com/&followup=https://classroom.google.com/&emr=1,242,0,150
+1637009120049,1547,HTTP Request,200,OK,jmeter-getting 1-100,text,true,,105845,501,1,1,https://accounts.google.com/ServiceLogin?service=classroom&passive=1209600&continue=https://classroom.google.com/&followup=https://classroom.google.com/&emr=1,204,0,146
+1637009120049,204,HTTP Request-0,301,Moved Permanently,jmeter-getting 1-100,text,true,,727,126,1,1,https://www.google.com/classroom,204,0,146
+1637009120254,923,HTTP Request-1,302,Moved Temporarily,jmeter-getting 1-100,text,true,,1917,123,1,1,https://classroom.google.com/,923,0,138
+1637009121177,418,HTTP Request-2,200,OK,jmeter-getting 1-100,text,true,,103201,252,1,1,https://accounts.google.com/ServiceLogin?service=classroom&passive=1209600&continue=https://classroom.google.com/&followup=https://classroom.google.com/&emr=1,255,0,152

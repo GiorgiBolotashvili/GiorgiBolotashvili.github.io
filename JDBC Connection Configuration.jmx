@@ -26,8 +26,8 @@
         <boolProp name="ThreadGroup.same_user_on_next_iteration">true</boolProp>
       </ThreadGroup>
       <hashTree>
-        <JDBCSampler guiclass="TestBeanGUI" testclass="JDBCSampler" testname="JDBC Request" enabled="true">
-          <stringProp name="dataSource">top3</stringProp>
+        <JDBCSampler guiclass="TestBeanGUI" testclass="JDBCSampler" testname="JDBC Request - Get isbn List" enabled="true">
+          <stringProp name="dataSource">MSsql</stringProp>
           <stringProp name="query">SELECT DISTINCT TOP (3) isbn
 FROM Jmeter.dbo.books</stringProp>
           <stringProp name="queryArguments"></stringProp>
@@ -36,7 +36,7 @@ FROM Jmeter.dbo.books</stringProp>
           <stringProp name="queryType">Select Statement</stringProp>
           <stringProp name="resultSetHandler">Store as String</stringProp>
           <stringProp name="resultSetMaxRows"></stringProp>
-          <stringProp name="resultVariable">Request_1</stringProp>
+          <stringProp name="resultVariable"></stringProp>
           <stringProp name="variableNames">isbnList</stringProp>
         </JDBCSampler>
         <hashTree/>
@@ -45,7 +45,7 @@ FROM Jmeter.dbo.books</stringProp>
           <stringProp name="checkQuery"></stringProp>
           <stringProp name="connectionAge">5000</stringProp>
           <stringProp name="connectionProperties"></stringProp>
-          <stringProp name="dataSource">top3</stringProp>
+          <stringProp name="dataSource">MSsql</stringProp>
           <stringProp name="dbUrl">jdbc:sqlserver://DESKTOP-IBRRGAO\SQLEXPRESS</stringProp>
           <stringProp name="driver">com.microsoft.sqlserver.jdbc.SQLServerDriver</stringProp>
           <stringProp name="initQuery"></stringProp>
@@ -102,6 +102,21 @@ FROM Jmeter.dbo.books</stringProp>
           <boolProp name="ForeachController.useSeparator">true</boolProp>
         </ForeachController>
         <hashTree>
+          <JDBCSampler guiclass="TestBeanGUI" testclass="JDBCSampler" testname="JDBC Request - Get title" enabled="true">
+            <stringProp name="dataSource">MSsql</stringProp>
+            <stringProp name="queryType">Select Statement</stringProp>
+            <stringProp name="query">select title
+From Jmeter.dbo.books
+Where isbn = ${isbn}</stringProp>
+            <stringProp name="queryArguments"></stringProp>
+            <stringProp name="queryArgumentsTypes"></stringProp>
+            <stringProp name="variableNames"></stringProp>
+            <stringProp name="resultVariable">title</stringProp>
+            <stringProp name="queryTimeout"></stringProp>
+            <stringProp name="resultSetMaxRows"></stringProp>
+            <stringProp name="resultSetHandler">Store as String</stringProp>
+          </JDBCSampler>
+          <hashTree/>
           <HTTPSamplerProxy guiclass="HttpTestSampleGui" testclass="HTTPSamplerProxy" testname="HTTP Request" enabled="true">
             <elementProp name="HTTPsampler.Arguments" elementType="Arguments" guiclass="HTTPArgumentsPanel" testclass="Arguments" testname="User Defined Variables" enabled="true">
               <collectionProp name="Arguments.arguments"/>
@@ -121,20 +136,18 @@ FROM Jmeter.dbo.books</stringProp>
             <stringProp name="HTTPSampler.response_timeout"></stringProp>
           </HTTPSamplerProxy>
           <hashTree/>
+          <ResponseAssertion guiclass="AssertionGui" testclass="ResponseAssertion" testname="Response Assertion" enabled="true">
+            <collectionProp name="Asserion.test_strings">
+              <stringProp name="-768020292">${title}</stringProp>
+            </collectionProp>
+            <stringProp name="Assertion.custom_message"></stringProp>
+            <stringProp name="Assertion.test_field">Assertion.response_data</stringProp>
+            <boolProp name="Assertion.assume_success">false</boolProp>
+            <intProp name="Assertion.test_type">34</intProp>
+            <stringProp name="Assertion.scope">all</stringProp>
+          </ResponseAssertion>
+          <hashTree/>
         </hashTree>
-        <ResponseAssertion guiclass="AssertionGui" testclass="ResponseAssertion" testname="Response Assertion" enabled="true">
-          <collectionProp name="Asserion.test_strings">
-            <stringProp name="3241718">isbn</stringProp>
-            <stringProp name="702908832">Git Pocket Guide</stringProp>
-            <stringProp name="693343284">Eloquent JavaScript, Second Edition</stringProp>
-            <stringProp name="-1461800739">Speaking JavaScript</stringProp>
-          </collectionProp>
-          <stringProp name="Assertion.custom_message"></stringProp>
-          <stringProp name="Assertion.test_field">Assertion.response_data</stringProp>
-          <boolProp name="Assertion.assume_success">false</boolProp>
-          <intProp name="Assertion.test_type">34</intProp>
-        </ResponseAssertion>
-        <hashTree/>
       </hashTree>
       <ThreadGroup guiclass="ThreadGroupGui" testclass="ThreadGroup" testname="CSV" enabled="true">
         <stringProp name="ThreadGroup.on_sample_error">continue</stringProp>
